@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "YOUR_PROJECT_NUMBER",
-    "project_id": "YOUR_PROJECT_ID",
-    "storage_bucket": "YOUR_STORAGE_URL"
+    "project_number": "973527247514",
+    "project_id": "callingandroidapp",
+    "storage_bucket": "callingandroidapp.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "YOUR_APP_SDK__ID",
+        "mobilesdk_app_id": "1:973527247514:android:2d6745e51916f8b7a88d23",
         "android_client_info": {
           "package_name": "com.viauapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "YOUR_CLIENT_ID",
+          "client_id": "973527247514-7ap1867fov51r3in7g45v8dd94rvh9t8.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "YOUR_CLIENT_KEY"
+          "current_key": "AIzaSyBCAA6JxTt8xD8o2w4HAQ314IAW0vpW9-k"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "YOUR_CLIENT_ID",
+              "client_id": "973527247514-7ap1867fov51r3in7g45v8dd94rvh9t8.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

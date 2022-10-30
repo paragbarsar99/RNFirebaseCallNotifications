@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
-    "test": "jest"
+    "test": "jest",
+    "android": "yarn run android"
   },
   "dependencies": {
     "react": "16.9.0",
@@ -22,7 +23,7 @@
     "eslint-plugin-jsx-a11y": "^6.1.2",
     "eslint-plugin-react": "^7.11.1",
     "jest": "23.6.0",
-    "metro-react-native-babel-preset": "0.54.1",
+    "metro-react-native-babel-preset": "0.59.0",
     "react-test-renderer": "16.9.0",
     "jetifier": "1.6.5"
   },
